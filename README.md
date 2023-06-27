@@ -39,7 +39,7 @@ To run this project, you will need to add the following environment variables to
 
 `API_BASE_URL`
 
-![Main Screen](https://github.com/kituuu/newsAppFlutter/assets/66073214/0809376a-6c84-426e-9ddd-54420492bc62){:height="400px" width="100px"}
+![Main Screen](https://github.com/kituuu/newsAppFlutter/assets/66073214/0809376a-6c84-426e-9ddd-54420492bc62){height="400px" width="100px"}
 ![Login Screen](https://github.com/kituuu/newsAppFlutter/assets/66073214/f08249c8-7b50-42ea-a30f-7428d76dc111){:height="400px" width="100px"}
 ![Register Screen](https://github.com/kituuu/newsAppFlutter/assets/66073214/8fd39753-9f5c-4e9c-9ea8-24f18580580d){:height="400px" width="100px"}
 ![News Screen 1](https://github.com/kituuu/newsAppFlutter/assets/66073214/994ddd7a-2228-4058-8279-7bb0b67e2990){:height="400px" width="100px"}
