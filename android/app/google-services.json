@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779136535126",
+    "project_id": "mdgnews2-7dccc",
+    "storage_bucket": "mdgnews2-7dccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779136535126:android:632ad64dff7cfd768289f7",
+        "android_client_info": {
+          "package_name": "com.example.mdgnews2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779136535126-c093c7m0sifa4oidbbfja22qpip1dvrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAv2yY0D050dBJvLShGSrjINE7WdmUuaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779136535126-c093c7m0sifa4oidbbfja22qpip1dvrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
